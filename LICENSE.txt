@@ -1,9 +1,0 @@
-This documentation-aimed website is licensed under a Creative Commons BY-SA license
-
-Please see http://creativecommons.org/licenses/by-sa/4.0
-
-Full list of contributors is available through pull request history. 
-
-Please note that if you reuse the documentation you shall have to give accurate credit for the particular excerpt you will republish
-
-
